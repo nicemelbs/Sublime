@@ -1,0 +1,32 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+		"A File Icon",
+		"Material Theme",
+		"PHP Companion",
+		"Sass",
+		"SublimeLinter",
+		"Vue Syntax Highlight"
+	],
+	"installed_packages":
+	[
+		"A File Icon",
+		"AdvancedNewFile",
+		"DocBlockr",
+		"Emmet",
+		"Facebook Material Theme",
+		"Hide Menu",
+		"Laravel 5 Artisan",
+		"Laravel Blade Highlighter",
+		"Material Theme",
+		"Package Control",
+		"PHP Companion",
+		"PHP Getters and Setters",
+		"Sass",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Vintageous",
+		"Vue Syntax Highlight"
+	]
+}

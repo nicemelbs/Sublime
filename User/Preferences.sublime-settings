@@ -1,0 +1,20 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_face": "Fira Code Retina",
+	"font_size": 10,
+	"ignored_packages":
+	[
+		"A File Icon",
+		"Material Theme",
+		"PHP Companion",
+		"Sass",
+		"SublimeLinter",
+		"Vintage",
+		"Vue Syntax Highlight"
+	],
+	"scroll_past_end": false,
+	"show_panel_on_build": false,
+	"tab_size": 2,
+	"theme": "Default.sublime-theme",
+	"word_wrap": "true"
+}

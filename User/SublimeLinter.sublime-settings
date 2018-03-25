@@ -1,0 +1,19 @@
+{
+	"user":
+	{
+		"linters":
+		{
+			"php":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			}
+		},
+		"show_errors_on_save": true
+	}
+}
